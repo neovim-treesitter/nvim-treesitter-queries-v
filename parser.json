@@ -1,7 +1,7 @@
 {
+  "location": "tree_sitter_v",
+  "lang": "v",
   "url": "https://github.com/vlang/v-analyzer",
   "semver": false,
-  "parser_version": "095865df4b9ddd21e376d635586c663d5a736f71",
-  "lang": "v",
-  "location": "tree_sitter_v"
+  "parser_version": "095865df4b9ddd21e376d635586c663d5a736f71"
 }
